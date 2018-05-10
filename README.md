@@ -1,10 +1,14 @@
 # Python Unit Testing
 
-## Links
-
-[Travis CI](https://travis-ci.org)
+[![Build Status](https://travis-ci.org/daviddwlee84/PythonUnitTesting.svg?branch=master)](https://travis-ci.org/daviddwlee84/PythonUnitTesting)
 
 ## Notes
+
+### [Travis CI](https://travis-ci.org)
+
+* [Travis CI Embedding Status Images](https://docs.travis-ci.com/user/status-images/)
+* [Python .travis.yml Settings](https://docs.travis-ci.com/user/languages/python/)
+
 
 ### Unit testing
 
@@ -61,4 +65,4 @@ os.getcwd()
 
 [`unittest`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.debug)
 
-[`pytest`]
+`pytest`
