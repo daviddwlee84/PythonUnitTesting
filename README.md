@@ -17,8 +17,8 @@
 ### Python unit testing framework
 
 * unittest - standard library
-* nose
-* pytest <- best
+* [nose](https://nose.readthedocs.io/en/latest/)
+* [pytest](https://docs.pytest.org/en/latest/) <- best
 
 ### Python import from different folder
 
